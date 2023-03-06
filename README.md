@@ -1,4 +1,4 @@
-# set wallpaper
-wallpaper
-# setwallpaper
-# setwallpaper
+# addmycomputer
+
+# addmycomputer
+
